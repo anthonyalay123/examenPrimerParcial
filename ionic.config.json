@@ -1,0 +1,7 @@
+{
+  "name": "menuIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
